@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="SN_label.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7212891"
+     inkscape:cx="235.29786"
+     inkscape:cy="885.33757"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4777">
+      <text
+         id="text4749"
+         y="19.720114"
+         x="40.067867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:'PF Din Stencil';-inkscape-font-specification:'PF Din Stencil';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="19.720114"
+           x="40.067867"
+           id="tspan4747"
+           sodipodi:role="line">BATTLE HARDENED</tspan><tspan
+           id="tspan4751"
+           style="stroke-width:0.26458332"
+           y="24.659002"
+           x="40.067867"
+           sodipodi:role="line">JOYSTICK</tspan><tspan
+           id="tspan4753"
+           style="stroke-width:0.26458332"
+           y="29.597891"
+           x="40.067867"
+           sodipodi:role="line">FOR COMMODORE</tspan><tspan
+           id="tspan4755"
+           style="stroke-width:0.26458332"
+           y="34.536781"
+           x="40.067867"
+           sodipodi:role="line" /><tspan
+           id="tspan4757"
+           style="stroke-width:0.26458332"
+           y="39.47567"
+           x="40.067867"
+           sodipodi:role="line">S/N 0001</tspan><tspan
+           id="tspan4759"
+           style="stroke-width:0.26458332"
+           y="44.414558"
+           x="40.067867"
+           sodipodi:role="line" /><tspan
+           id="tspan4761"
+           style="stroke-width:0.26458332"
+           y="49.353447"
+           x="40.067867"
+           sodipodi:role="line">MADE IN</tspan><tspan
+           id="tspan4763"
+           style="stroke-width:0.26458332"
+           y="54.292336"
+           x="40.067867"
+           sodipodi:role="line">W.-GERMANY</tspan></text>
+      <rect
+         y="12.478498"
+         x="17.369492"
+         height="45.652557"
+         width="45.498844"
+         id="rect4765"
+         style="opacity:0.98999999;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.6, 1.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+  </g>
+</svg>

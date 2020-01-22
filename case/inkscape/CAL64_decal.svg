@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="CAL64_decal.svg"
+   inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\cheat_stick\case\pictures\mili_decal.png"
+   inkscape:export-xdpi="157"
+   inkscape:export-ydpi="157">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6019884"
+     inkscape:cx="156.34366"
+     inkscape:cy="997.55867"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="4.9317252,301.03861"
+       orientation="1,0"
+       id="guide4756"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="41.004499,305.38564"
+       orientation="1,0"
+       id="guide4758"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20151">
+      <rect
+         inkscape:export-ydpi="157"
+         inkscape:export-xdpi="157"
+         y="3.8679948"
+         x="4.9317255"
+         height="10.377669"
+         width="36.072773"
+         id="rect4751"
+         style="opacity:0.98999999;fill:#3c4a00;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79499996, 0.79499996;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         inkscape:export-ydpi="157"
+         inkscape:export-xdpi="157"
+         transform="scale(1.0085673,0.99150547)"
+         id="text4749"
+         y="13.023156"
+         x="39.865341"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.19059944px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PF Din Stencil';-inkscape-font-specification:'PF Din Stencil';fill:#000000;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+           y="13.023156"
+           x="39.865341"
+           id="tspan4747"
+           sodipodi:role="line">.64 CAL</tspan></text>
+    </g>
+  </g>
+</svg>
