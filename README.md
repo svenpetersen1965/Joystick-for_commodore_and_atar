@@ -6,3 +6,5 @@ This is a joystick for Commodore C64 etc.
 The Design is based on the widely available ZIPPYY joystick, which is of a  great quality.
 
 <img src="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar/blob/master/top%20level%20project/Rev.%200/pictures/3596_complte_wiring.JPG" width="300" alt="Joystick">
+
+<img src="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar/blob/master/top%20level%20project/Rev.%200/pictures/3598_joystick_complete.JPG" width="300" alt="Joystick">
