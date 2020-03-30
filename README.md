@@ -13,6 +13,6 @@ There are now three alternative top shells:
 
 <img src="https://github.com/svenpetersen1965/Joystick-for_commodore_and_atar/blob/master/case/pictures/js_three_tops.png" width="300" alt="Joystick">
 
-The original ZIPPYY top has a mounting hole distance of 52mm (square), the "HK-T-8YT" a distance of 32mm and the "50sq-28" a distance of 50mm. The light blue lines show, how the distances were measured. 
+The original ZIPPYY top has a mounting hole distance of 52mm (square), the "HK-T-8YT" a distance of 32mm and the "50sq-28" a distance of 50mm (a ZIPPYY clone>. The light blue lines show, how the distances were measured. 
 
 Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
